@@ -185,7 +185,7 @@ hast에 대한 타입은 [`@types/hast`][types-hast]에서 사용할 수 있습�
 
 ## 호환성
 
-unified 집단에서 유지 관리하는 프로젝트들은 유지 관리되는 Node.js 버전과 호환됩니다.
+unified collective에서 유지 관리하는 프로젝트들은 유지 관리되는 Node.js 버전과 호환됩니다.
 
 새로운 주요 릴리스를 할 때, 우리는 유지 관리되지 않는 Node.js 버전에 대한 지원을 중단합니다.
 이는 현재 릴리스 라인을 Node.js 16과 호환되도록 유지하려고 노력한다는 의미입니다.
@@ -274,7 +274,7 @@ rehype 플러그인 사용은 다른 공격에도 노출될 수 있습니다.
 <tr valign="middle">
 <td width="100%" align="center" colspan="8">
   <br>
-  <a href="https://opencollective.com/unified"><strong>여러분도 후원할 수 있습니다!</strong></a>
+  <a href="https://opencollective.com/unified"><strong>당신도 함께 하시겠습니까?</strong></a>
   <br><br>
 </td>
 </tr>
@@ -328,7 +328,7 @@ rehype 플러그인 사용은 다른 공격에도 노출될 수 있습니다.
 
 [author]: https://wooorm.com
 
-[unified]: https://github.com/unifiedjs/unified
+[unified]: https://github.com/foreverfl/unified/blob/main/readme-ko.md
 
 [types-hast]: https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/hast
 
@@ -352,15 +352,15 @@ rehype 플러그인 사용은 다른 공격에도 노출될 수 있습니다.
 
 [rehype-sanitize]: https://github.com/rehypejs/rehype-sanitize
 
-[rehype-parse]: packages/rehype-parse/
+[rehype-parse]: packages/rehype-parse/readme-ko.md
 
-[rehype-stringify]: packages/rehype-stringify/
+[rehype-stringify]: packages/rehype-stringify/readme-ko.md
 
-[rehype-core]: packages/rehype/
+[rehype-core]: packages/rehype/readme-ko.md
 
-[rehype-cli]: packages/rehype-cli/
+[rehype-cli]: packages/rehype-cli/readme-ko.md
 
-[list-of-plugins]: doc/plugins.md#list-of-plugins
+[list-of-plugins]: doc/plugins-ko.md#list-of-plugins
 
 [contribute]: #기여하기
 
